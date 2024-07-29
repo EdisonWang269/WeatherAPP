@@ -1,6 +1,6 @@
 {
   "name": "weather-app",
-  "homepage": "https://EdisonWang269.github.io/WeatherAPP",
+  "homepage": "https://edisonwang269.github.io/WeatherAPP",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.4",
